@@ -9,7 +9,7 @@
 }
 
 .menu {
-  overflow-x: scroll;
+  overflow-x: hidden;
   white-space: nowrap;
 }
 
@@ -25,9 +25,11 @@ li {
 
 a {
   display: block;
-  padding: 10px;
+  padding: 15px;
   text-decoration: none;
   color: #000;
+  background-color: #f7f7f7;
+  border-radius: 100%;
 }
 
 li.active a {
@@ -40,11 +42,11 @@ li.active a {
   }
 }
 
+
 </style>	
 	
 </head>
 <body>
-hhsklhaldshla
 
 <div class="menu-container">
   <div class="menu">
