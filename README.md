@@ -3,8 +3,43 @@
 <head>
 	<title>Tag-Filter</title>
 		
-	<link rel="stylesheet" type="text/css" href="Tag-Filter.css">
-	<script src="Tag-Filter.js"></script>
+	<script>.menu-container {
+  max-width: 1600px;
+  margin: 0 auto;
+}
+
+.menu {
+  overflow-x: scroll;
+  white-space: nowrap;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+li {
+  display: inline-block;
+}
+
+a {
+  display: block;
+  padding: 10px;
+  text-decoration: none;
+  color: #000;
+}
+
+li.active a {
+  color: #f00;
+}
+
+@media screen and (max-width: 767px) {
+  .menu-container {
+    max-width: none;
+  }
+}
+ </script>
 </head>
 <body>
 hhsklhaldshla
