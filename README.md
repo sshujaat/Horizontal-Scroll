@@ -104,7 +104,7 @@ li.active a:hover {
 <div class="menu-container">
     <div class="menu">
       <ul>
-              <li class="active"><a href="#">Link 1</a></li>
+              <li><a href="#">Link 1</a></li>
               <li><a href="#">Link 2</a></li>
               <li><a href="#">Link 3</a></li>
               <li><a href="#">Link 4</a></li>
@@ -125,7 +125,7 @@ li.active a:hover {
               <li><a href="#">Link 19</a></li>
               <li><a href="#">Link 20</a></li>
               <li><a href="#">Link 21</a></li>
-              <li><a href="#">Link 22</a></li>
+              <li class="active"><a href="#">Link 22</a></li>
               <li><a href="#">Link 23</a></li>
               <li><a href="#">Link 24</a></li>
               <li><a href="#">Link 25</a></li>
