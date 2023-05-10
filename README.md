@@ -147,7 +147,7 @@ li.active a:hover {
 
   // Scroll the menu element to the left of the active link's position
   menu.scrollTo({
-    left: activeLink.offsetLeft - menu.offsetWidth / 0 + activeLink.offsetWidth / 2,
+    left: activeLink.offsetLeft - menu.offsetWidth / 1.5 + activeLink.offsetWidth / 1.5,
     behavior: 'smooth'
   });
 });
