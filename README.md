@@ -108,35 +108,13 @@ li.active a:hover {
               <li><a href="#">Link 2</a></li>
               <li><a href="#">Link 3</a></li>
               <li><a href="#">Link 4</a></li>
-              <li><a href="#">Link 5</a></li>
+              <li class="active"><a href="#">Link 5</a></li>
               <li><a href="#">Link 6</a></li>
               <li><a href="#">Link 7</a></li>
               <li><a href="#">Link 8</a></li>
               <li><a href="#">Link 9</a></li>
               <li><a href="#">Link 10</a></li>
-              <li><a href="#">Link 11</a></li>
-              <li><a href="#">Link 12</a></li>
-              <li><a href="#">Link 13</a></li>
-              <li><a href="#">Link 14</a></li>
-              <li><a href="#">Link 15</a></li>
-              <li><a href="#">Link 16</a></li>
-              <li><a href="#">Link 17</a></li>
-              <li><a href="#">Link 18</a></li>
-              <li><a href="#">Link 19</a></li>
-              <li><a href="#">Link 20</a></li>
-              <li><a href="#">Link 21</a></li>
-              <li class="active"><a href="#">Link 22</a></li>
-              <li><a href="#">Link 23</a></li>
-              <li><a href="#">Link 24</a></li>
-              <li><a href="#">Link 25</a></li>
-              <li><a href="#">Link 26</a></li>
-              <li><a href="#">Link 27</a></li>
-              <li><a href="#">Link 28</a></li>
-              <li><a href="#">Link 29</a></li>
-              <li><a href="#">Link 30</a></li>
-              <li><a href="#">Link 31</a></li>
-              <li><a href="#">Link 32</a></li>
-              <li><a href="#">Link 33</a></li>
+              
       </ul>
     </div>
   </div>
